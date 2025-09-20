@@ -12,3 +12,5 @@ pyaudio
 PyYAML
 xmltodict
 reportlab
+boto3
+plotly
