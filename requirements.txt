@@ -10,3 +10,4 @@ openpyxl
 numpy==1.25.2
 pyaudio
 PyYAML
+xmltodict
