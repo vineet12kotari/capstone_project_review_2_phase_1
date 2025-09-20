@@ -14,3 +14,4 @@ xmltodict
 reportlab
 boto3
 plotly
+gspread 
