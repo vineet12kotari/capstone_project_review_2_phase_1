@@ -14,4 +14,5 @@ xmltodict
 reportlab
 boto3
 plotly
-gspread 
+gspread
+mysql-connector-python
